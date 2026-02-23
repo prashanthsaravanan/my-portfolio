@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const Skills = () => {
-  const skills = ["Java", "Python", "C++", "React", "HTML/CSS", "JS"];
+  // const skills = ["Java", "Python", "C++", "React", "HTML/CSS", "JS"];
   return (
     <motion.section
   id="about"
